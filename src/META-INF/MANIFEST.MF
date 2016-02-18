@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ma.yquoulali.VCFSplitter
+author: yquoulali<yquoulali@gmail.com>
+Created-By: 1.7.0_79 (Oracle Corporation)
